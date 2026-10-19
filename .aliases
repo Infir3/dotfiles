@@ -1,0 +1,6 @@
+alias ..='cd ..'
+
+# git
+alias gf='git fetch'
+alias gp='git push'
+alias gs='git status'
